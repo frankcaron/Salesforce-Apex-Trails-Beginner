@@ -769,10 +769,10 @@
         {
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async",
             "isDirectory": true,
-            "size": 448,
-            "modifiedTime": 1545068249337,
-            "changeTime": 1545068249337,
-            "contentHash": "0edc041cfce6e21da1d7e55a3f96f473b5d7f2fa",
+            "size": 576,
+            "modifiedTime": 1545083171972,
+            "changeTime": 1545083171972,
+            "contentHash": "1bdc0dd94371dd7aaabea3dd149b789da303ed8f",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -1514,14 +1514,14 @@
     [
         "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AddPrimaryContactTest.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AddPrimaryContactTest.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1807,
             "modifiedTime": 1545082917899,
             "changeTime": 1545082917899,
-            "contentHash": "9a9505eda71e9085dc72b584f60bdf2c63e5a172"
+            "contentHash": "9a9505eda71e9085dc72b584f60bdf2c63e5a172",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1533,6 +1533,58 @@
             "modifiedTime": 1545068249338,
             "changeTime": 1545068249338,
             "contentHash": "90d1e7ca2ad801e8a268a003b1ed2b603ac69060",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessor.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessor.cls",
+            "isDirectory": false,
+            "size": 473,
+            "modifiedTime": 1545083297181,
+            "changeTime": 1545083297181,
+            "contentHash": "52f02dfe7d0916ff98d7f801d59f4c6ca7be78c1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessor.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessor.cls-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1545083164121,
+            "changeTime": 1545083164121,
+            "contentHash": "7027bc05a1f504f9f0f06249c4f59099ff7ba3a1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessorTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessorTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 931,
+            "modifiedTime": 1545083493248,
+            "changeTime": 1545083493248,
+            "contentHash": "7d011345a379db94267028389a1443a06ce7410c"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessorTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessorTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 200,
+            "modifiedTime": 1545083171972,
+            "changeTime": 1545083171972,
+            "contentHash": "9ed5c60f7d5db1ecda9fa46f1ad02ed4f6373d5f",
             "isMetadataFile": true,
             "state": "u"
         }

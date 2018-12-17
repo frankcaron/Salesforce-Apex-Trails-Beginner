@@ -767,15 +767,15 @@
     [
         "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async",
         {
+            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async",
             "isDirectory": true,
-            "size": 448,
-            "modifiedTime": 1545068249337,
-            "changeTime": 1545068249337,
-            "contentHash": "0edc041cfce6e21da1d7e55a3f96f473b5d7f2fa",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 576,
+            "modifiedTime": 1545083171972,
+            "changeTime": 1545083171972,
+            "isWorkspace": false,
+            "contentHash": "1bdc0dd94371dd7aaabea3dd149b789da303ed8f"
         }
     ],
     [
@@ -1514,14 +1514,14 @@
     [
         "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AddPrimaryContactTest.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AddPrimaryContactTest.cls",
             "isDirectory": false,
+            "size": 1807,
+            "modifiedTime": 1545082917899,
+            "changeTime": 1545082917899,
+            "contentHash": "9a9505eda71e9085dc72b584f60bdf2c63e5a172",
             "isMetadataFile": false,
-            "size": 1667,
-            "modifiedTime": 1545082778335,
-            "changeTime": 1545082778335,
-            "contentHash": "0901cb1c006eb55e6ca44895c74737dcff32ae79"
+            "state": "u"
         }
     ],
     [
@@ -1535,6 +1535,58 @@
             "contentHash": "90d1e7ca2ad801e8a268a003b1ed2b603ac69060",
             "isMetadataFile": true,
             "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessor.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessor.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 473,
+            "modifiedTime": 1545083297181,
+            "changeTime": 1545083297181,
+            "contentHash": "52f02dfe7d0916ff98d7f801d59f4c6ca7be78c1"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessor.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessor.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1545083164121,
+            "changeTime": 1545083164121,
+            "contentHash": "7027bc05a1f504f9f0f06249c4f59099ff7ba3a1"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessorTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessorTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 691,
+            "modifiedTime": 1545083181038,
+            "changeTime": 1545083181038,
+            "contentHash": "5f8e2be599a5e44f73fef0172bb44fe5fba990ac"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessorTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessorTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 200,
+            "modifiedTime": 1545083171972,
+            "changeTime": 1545083171972,
+            "contentHash": "9ed5c60f7d5db1ecda9fa46f1ad02ed4f6373d5f"
         }
     ]
 ]
