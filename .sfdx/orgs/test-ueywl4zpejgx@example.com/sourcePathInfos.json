@@ -769,10 +769,10 @@
         {
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async",
             "isDirectory": true,
-            "size": 320,
-            "modifiedTime": 1545062596797,
-            "changeTime": 1545062596797,
-            "contentHash": "1f28a102c1c15aea3c9060c4ed17a75650b1283d",
+            "size": 448,
+            "modifiedTime": 1545068249337,
+            "changeTime": 1545068249337,
+            "contentHash": "0edc041cfce6e21da1d7e55a3f96f473b5d7f2fa",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -1462,14 +1462,14 @@
     [
         "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/LeadProcessorTest.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/LeadProcessorTest.cls",
             "isDirectory": false,
+            "size": 686,
+            "modifiedTime": 1545068093504,
+            "changeTime": 1545068093504,
+            "contentHash": "85938c63e288bea62078a966ccaa2d56969b5f59",
             "isMetadataFile": false,
-            "size": 684,
-            "modifiedTime": 1545067596231,
-            "changeTime": 1545067596231,
-            "contentHash": "f69d8ae298eb65cf4b3d93bcabcb524180938166"
+            "state": "u"
         }
     ],
     [
@@ -1481,6 +1481,58 @@
             "modifiedTime": 1545062596798,
             "changeTime": 1545062596798,
             "contentHash": "01143831cd7e1dc54b3117fd7a31c3aefa66aba1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AddPrimaryContact.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AddPrimaryContact.cls",
+            "isDirectory": false,
+            "size": 1136,
+            "modifiedTime": 1545082335933,
+            "changeTime": 1545082335933,
+            "contentHash": "67036973360b031b87fdafeb0261c00317e43724",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AddPrimaryContact.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AddPrimaryContact.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1545068239310,
+            "changeTime": 1545068239310,
+            "contentHash": "ee7a1914021017bdaf149aa37378b43ebc0c28b8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AddPrimaryContactTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AddPrimaryContactTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1807,
+            "modifiedTime": 1545082917899,
+            "changeTime": 1545082917899,
+            "contentHash": "9a9505eda71e9085dc72b584f60bdf2c63e5a172"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AddPrimaryContactTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AddPrimaryContactTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1545068249338,
+            "changeTime": 1545068249338,
+            "contentHash": "90d1e7ca2ad801e8a268a003b1ed2b603ac69060",
             "isMetadataFile": true,
             "state": "u"
         }
