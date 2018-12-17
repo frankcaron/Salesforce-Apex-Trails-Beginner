@@ -769,10 +769,10 @@
         {
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async",
             "isDirectory": true,
-            "size": 192,
-            "modifiedTime": 1545060038279,
-            "changeTime": 1545060038279,
-            "contentHash": "b071af41fbaa3f8f6f9a75f48f768bb3b9474666",
+            "size": 320,
+            "modifiedTime": 1545062596797,
+            "changeTime": 1545062596797,
+            "contentHash": "1f28a102c1c15aea3c9060c4ed17a75650b1283d",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -781,15 +781,15 @@
     [
         "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AccountProcessor.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AccountProcessor.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1234,
             "modifiedTime": 1545062271856,
             "changeTime": 1545062271856,
-            "isWorkspace": false,
-            "contentHash": "a7617dda4c5772b69c143cac1bb6f5ff2e187f29"
+            "contentHash": "a7617dda4c5772b69c143cac1bb6f5ff2e187f29",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -1429,6 +1429,58 @@
             "modifiedTime": 1545060038279,
             "changeTime": 1545060038279,
             "contentHash": "dc7d15011f6739ad91082f6f09c3ce7eca0cc66a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/LeadProcessor.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/LeadProcessor.cls",
+            "isDirectory": false,
+            "size": 1356,
+            "modifiedTime": 1545067524466,
+            "changeTime": 1545067524466,
+            "contentHash": "5ef48eb850fcca05866122a1cf2cccc58b6a952f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/LeadProcessor.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/LeadProcessor.cls-meta.xml",
+            "isDirectory": false,
+            "size": 191,
+            "modifiedTime": 1545062577617,
+            "changeTime": 1545062577617,
+            "contentHash": "db3ca7bd94dc9b9bbe930eeef22e0ea4933eaf49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/LeadProcessorTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/LeadProcessorTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 684,
+            "modifiedTime": 1545067596231,
+            "changeTime": 1545067596231,
+            "contentHash": "f69d8ae298eb65cf4b3d93bcabcb524180938166"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/LeadProcessorTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/LeadProcessorTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1545062596798,
+            "changeTime": 1545062596798,
+            "contentHash": "01143831cd7e1dc54b3117fd7a31c3aefa66aba1",
             "isMetadataFile": true,
             "state": "u"
         }
