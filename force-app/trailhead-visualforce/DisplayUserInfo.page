@@ -1,0 +1,5 @@
+<apex:page>
+
+<p>Hello, {! $User.FirstName }. It's great to see you.</p>
+
+</apex:page>

@@ -1,0 +1,12 @@
+<apex:page docType="html-5.0" standardController="Account" recordSetVar="Accounts">
+    <apex:slds />
+    <apex:pageBlock title="Accounts">
+
+        <ul>
+            <apex:repeat var="a" value="{! Accounts }">
+               <li><apex:outputLink value="/{! a.Id }">{! a.Name }</apex:outputLink></li>
+            </apex:repeat>
+        </ul>
+
+    </apex:pageBlock>
+</apex:page>

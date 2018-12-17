@@ -1,0 +1,28 @@
+<apex:page docType="html-5.0" standardController="Contact">
+    <apex:slds />
+    <apex:pageBlock title="Create Contact">
+        <apex:pageBlockSection>
+                <apex:form>
+                    <table>
+                        <tr>
+                            <td>First Name:</td>
+                            <td><apex:inputField value="{!Contact.FirstName}" type="text" /></td>
+                        </tr>
+                        <tr>
+                                <td>Last Name:</td>
+                                <td><apex:inputField value="{!Contact.LastName}" type="text" /></td>
+                        </tr>
+                        <tr>
+                                <td>Email:</td>
+                                <td><apex:inputField value="{!Contact.Email}" type="email" /></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <apex:commandButton action="{! save }" value="Save" />
+                            </td>
+                        </tr>
+                    </table>
+                </apex:form>
+        </apex:pageBlockSection>
+    </apex:pageBlock>
+</apex:page>

@@ -1,0 +1,18 @@
+<apex:page standardController="Contact">
+    <apex:slds />
+    <apex:pageBlock title="Account Summary">
+        <apex:pageBlockSection>
+            <table>
+                <tr>
+                    <td>First Name</td><td>{! Contact.FirstName }</td>
+                </tr>
+                <tr>
+                    <td>Last Name</td><td>{! Contact.LastName }</td>
+                </tr>
+                <tr>
+                    <td>Owner Email</td><td>{! Contact.Owner.Email }</td>
+                </tr>
+            </table>
+        </apex:pageBlockSection>
+    </apex:pageBlock>
+</apex:page>
