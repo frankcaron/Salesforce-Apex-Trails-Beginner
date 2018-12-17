@@ -1,0 +1,1436 @@
+[
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1545053851168,
+            "changeTime": 1545053851168,
+            "contentHash": "1216c930d501f36d4523f10863998edbee4bde0e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1544399940635,
+            "changeTime": 1544399940635,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1544470965244,
+            "changeTime": 1544470965244,
+            "contentHash": "1e2fbc01b0d09c92c2e62c357b014861035d5e86",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1544470999541,
+            "changeTime": 1544470999541,
+            "contentHash": "13f44aa59335624fe36b0faa5d75a717432510f0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1544470999546,
+            "changeTime": 1544470999546,
+            "contentHash": "4aa71d90e8bee5c85d45844b356ab5e73c020d90",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent/myEverythingComponent.auradoc",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent/myEverythingComponent.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1544470999545,
+            "changeTime": 1544470999545,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent/myEverythingComponent.cmp",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent/myEverythingComponent.cmp",
+            "isDirectory": false,
+            "size": 70,
+            "modifiedTime": 1544471030420,
+            "changeTime": 1544471030420,
+            "contentHash": "5274c6be55be1459f8b8f0000b8b2a9c15ad4892",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent/myEverythingComponent.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent/myEverythingComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 253,
+            "modifiedTime": 1544470999542,
+            "changeTime": 1544470999542,
+            "contentHash": "db1e21d967d59fcef89d9cff2cb7ce1e5294bb6d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent/myEverythingComponent.css",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent/myEverythingComponent.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1544470999544,
+            "changeTime": 1544470999544,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent/myEverythingComponent.design",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent/myEverythingComponent.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1544470999546,
+            "changeTime": 1544470999546,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent/myEverythingComponent.svg",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent/myEverythingComponent.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1544470999545,
+            "changeTime": 1544470999545,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent/myEverythingComponentController.js",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent/myEverythingComponentController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1544470999543,
+            "changeTime": 1544470999543,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent/myEverythingComponentHelper.js",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent/myEverythingComponentHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1544470999543,
+            "changeTime": 1544470999543,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent/myEverythingComponentRenderer.js",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/aura/myEverythingComponent/myEverythingComponentRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1544470999544,
+            "changeTime": 1544470999544,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1544399940638,
+            "changeTime": 1544399940638,
+            "contentHash": "7e02ae8562673a4f4dfaf75e0b8ce41925fea427",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/permissionsets/Debug_Apex.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/permissionsets/Debug_Apex.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 22288,
+            "modifiedTime": 1544399940638,
+            "changeTime": 1544399940638,
+            "contentHash": "a5426e2808a86b68ca51a0aa44a3e1cfb3a0caaa",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1544463750801,
+            "changeTime": 1544463750801,
+            "contentHash": "c061a1a750b5253709d4c99edf20690d2dd0fc16",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/staticresources/vfimagetest",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/staticresources/vfimagetest",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1544463750806,
+            "changeTime": 1544463750806,
+            "contentHash": "0fb906cf495b9a70f443aa37d6d796eaa306a39d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/staticresources/vfimagetest/__MACOSX",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/staticresources/vfimagetest/__MACOSX",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1544463750801,
+            "changeTime": 1544463750801,
+            "contentHash": "8ebf601f8b808c32b8d2fb570c2e0fbdbb388add",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/staticresources/vfimagetest/__MACOSX/cats",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/staticresources/vfimagetest/__MACOSX/cats",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1544463750805,
+            "changeTime": 1544463750805,
+            "contentHash": "ff5e5d1ef86b6543b674a46653617b147b084628",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/staticresources/vfimagetest/cats",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/staticresources/vfimagetest/cats",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1544463750808,
+            "changeTime": 1544463750808,
+            "contentHash": "35db866569b8ea3d83e2e1c463a1a733c217cf32",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/staticresources/vfimagetest/cats/kitten1.jpg",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/staticresources/vfimagetest/cats/kitten1.jpg",
+            "isDirectory": false,
+            "size": 12970,
+            "modifiedTime": 1544463750807,
+            "changeTime": 1544463750807,
+            "contentHash": "6a9233e06c7fd42eeb7fddf658db722c2a1deeef",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/staticresources/vfimagetest/cats/kitten2.jpg",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/staticresources/vfimagetest/cats/kitten2.jpg",
+            "isDirectory": false,
+            "size": 15545,
+            "modifiedTime": 1544463750808,
+            "changeTime": 1544463750808,
+            "contentHash": "1d5c201e9b94aad450c659356acf989d774c1695",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/staticresources/vfimagetest.resource-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/main/default/staticresources/vfimagetest.resource-meta.xml",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1544463750780,
+            "changeTime": 1544463750780,
+            "contentHash": "a26956096455c1ad8f2625a5a817d45b35678b07",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex",
+            "isDirectory": true,
+            "size": 896,
+            "modifiedTime": 1544482530639,
+            "changeTime": 1544482530639,
+            "contentHash": "7bbec55393662e7956f15073c838558a434d311d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountHandler.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountHandler.cls",
+            "isDirectory": false,
+            "size": 863,
+            "modifiedTime": 1544409630100,
+            "changeTime": 1544409630101,
+            "contentHash": "8db05bb2145db30c3c2365cc99b0e13baa903395",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountHandler.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountHandler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1544409630100,
+            "changeTime": 1544409630100,
+            "contentHash": "8d9640360a01a63b07970ca89f793dc82c59e4e1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountHandlerTests.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountHandlerTests.cls",
+            "isDirectory": false,
+            "size": 507,
+            "modifiedTime": 1544409630100,
+            "changeTime": 1544409630100,
+            "contentHash": "3d318faaac154e0adfb7a2d5b790484c70b67d5c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountHandlerTests.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountHandlerTests.cls-meta.xml",
+            "isDirectory": false,
+            "size": 197,
+            "modifiedTime": 1544409630099,
+            "changeTime": 1544409630100,
+            "contentHash": "73f5e89d33cab936054b17d4015f17fd2ba0f413",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountTriggerHandler.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountTriggerHandler.cls",
+            "isDirectory": false,
+            "size": 1141,
+            "modifiedTime": 1544483785423,
+            "changeTime": 1544483785423,
+            "contentHash": "a8a5ee638c3a85e5b323afaf90c09b83180f0ef2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountTriggerHandler.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountTriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1544482277622,
+            "changeTime": 1544482277622,
+            "contentHash": "175969d3db30b41e1800a4499b82deb068a1c2da",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountTriggerTest.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountTriggerTest.cls",
+            "isDirectory": false,
+            "size": 690,
+            "modifiedTime": 1544485043673,
+            "changeTime": 1544485043673,
+            "contentHash": "a614456a3affb5c8e9cfe539aacad9b30f61c43d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountTriggerTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountTriggerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1544482530639,
+            "changeTime": 1544482530639,
+            "contentHash": "016f8a2637bb97e4a92e54c3bbbdb16a2c6541ea",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountUtils.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountUtils.cls",
+            "isDirectory": false,
+            "size": 594,
+            "modifiedTime": 1544481128033,
+            "changeTime": 1544481128033,
+            "contentHash": "c1d30694ee8eace57f88f5b124dbca07e1e4eecb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountUtils.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountUtils.cls-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1544480859972,
+            "changeTime": 1544480859972,
+            "contentHash": "63b379f8c15c46d526038701d9a7bf012d52b971",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountUtilsTest.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountUtilsTest.cls",
+            "isDirectory": false,
+            "size": 270,
+            "modifiedTime": 1544481206887,
+            "changeTime": 1544481206887,
+            "contentHash": "a0177bdd80bb06eff9a3f08df581485cb6470a65",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountUtilsTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/AccountUtilsTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 194,
+            "modifiedTime": 1544481141854,
+            "changeTime": 1544481141854,
+            "contentHash": "8bca328574a887363233248ef795ebc2d8fc1b8a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/ContactAndLeadSearch.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/ContactAndLeadSearch.cls",
+            "isDirectory": false,
+            "size": 668,
+            "modifiedTime": 1544411827380,
+            "changeTime": 1544411827380,
+            "contentHash": "c33d7c5db3a9ba58795363713685816e6540e1ac",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/ContactAndLeadSearch.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/ContactAndLeadSearch.cls-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1544410561167,
+            "changeTime": 1544410561167,
+            "contentHash": "762d705e97b45b512b65bbf1e1c2cfb2ee6014d5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/ContactAndLeadSearchTests.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/ContactAndLeadSearchTests.cls",
+            "isDirectory": false,
+            "size": 301,
+            "modifiedTime": 1544411559731,
+            "changeTime": 1544411559731,
+            "contentHash": "4c20651478adcb2d9ba130d56f934a0253266729",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/ContactAndLeadSearchTests.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/ContactAndLeadSearchTests.cls-meta.xml",
+            "isDirectory": false,
+            "size": 203,
+            "modifiedTime": 1544410581357,
+            "changeTime": 1544410581357,
+            "contentHash": "805bcd9c22eace91dbffacc5609eb2f1b231220f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/ContactSearch.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/ContactSearch.cls",
+            "isDirectory": false,
+            "size": 783,
+            "modifiedTime": 1544409840297,
+            "changeTime": 1544409840297,
+            "contentHash": "ed00d4a392a146bd8b5e3e392d395ad3c1ee7a71",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/ContactSearch.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/ContactSearch.cls-meta.xml",
+            "isDirectory": false,
+            "size": 191,
+            "modifiedTime": 1544409630100,
+            "changeTime": 1544409630100,
+            "contentHash": "9f7ccf93d6650924f321b237de8464bf6bbc97e5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/ContactSearchTests.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/ContactSearchTests.cls",
+            "isDirectory": false,
+            "size": 282,
+            "modifiedTime": 1544409809201,
+            "changeTime": 1544409809201,
+            "contentHash": "2bc61757660a088eb63791a1fa9471487da4fb4b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/ContactSearchTests.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/ContactSearchTests.cls-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1544409651437,
+            "changeTime": 1544409651437,
+            "contentHash": "cb0d74ab49462335c82a7368b1e065798d745a41",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/OlderAccountsUtility.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/OlderAccountsUtility.cls",
+            "isDirectory": false,
+            "size": 494,
+            "modifiedTime": 1544413338407,
+            "changeTime": 1544413338407,
+            "contentHash": "2d36c828fc2d1472d1f587ae584bf285eade6206",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/OlderAccountsUtility.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/OlderAccountsUtility.cls-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1544413176279,
+            "changeTime": 1544413176279,
+            "contentHash": "4842cbc7a2aa0f181e15fd7f333a247f13ad2b8a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/StringArrayTest.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/StringArrayTest.cls",
+            "isDirectory": false,
+            "size": 575,
+            "modifiedTime": 1544409630100,
+            "changeTime": 1544409630100,
+            "contentHash": "a317b57210d9c442ce9e7b7725854f9fa082e43f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/StringArrayTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/StringArrayTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 193,
+            "modifiedTime": 1544409630100,
+            "changeTime": 1544409630100,
+            "contentHash": "2fab6a97052c04c76214e088d069cdb2f62fca2a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/StringArrayTestTester.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/StringArrayTestTester.cls",
+            "isDirectory": false,
+            "size": 645,
+            "modifiedTime": 1544409630100,
+            "changeTime": 1544409630100,
+            "contentHash": "75926dd55b1bb848bcefc13618d33a17cd56713f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/StringArrayTestTester.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-apex/StringArrayTestTester.cls-meta.xml",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1544409630100,
+            "changeTime": 1544409630100,
+            "contentHash": "b09233edc65eae3bdb52823f22dab1065f084567",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1545060038279,
+            "changeTime": 1545060038279,
+            "contentHash": "b071af41fbaa3f8f6f9a75f48f768bb3b9474666",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AccountProcessor.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AccountProcessor.cls",
+            "isDirectory": false,
+            "size": 1195,
+            "modifiedTime": 1545062012484,
+            "changeTime": 1545062012484,
+            "contentHash": "06786dbe9c1f1c288bce8e9724f583219d8c3a8c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AccountProcessor.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AccountProcessor.cls-meta.xml",
+            "isDirectory": false,
+            "size": 194,
+            "modifiedTime": 1545058776045,
+            "changeTime": 1545058776045,
+            "contentHash": "a5bcd46e0c5379f2d06ce8c657efa13abc8ffa73",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing",
+            "isDirectory": true,
+            "size": 384,
+            "modifiedTime": 1544740503683,
+            "changeTime": 1544740503683,
+            "contentHash": "304dd91f969ca2e94c829508c9bacc7933522ff1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/RandomContactFactory.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/RandomContactFactory.cls",
+            "isDirectory": false,
+            "size": 1355,
+            "modifiedTime": 1544740664475,
+            "changeTime": 1544740664475,
+            "contentHash": "49f4bf8bf36a129a0776b00caeb40ec725666195",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/RandomContactFactory.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/RandomContactFactory.cls-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1544740503683,
+            "changeTime": 1544740503683,
+            "contentHash": "68de4928cebc9485bf91014ebe75a2a6d69979d4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/RestrictContactByName.trigger",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/RestrictContactByName.trigger",
+            "isDirectory": false,
+            "size": 313,
+            "modifiedTime": 1544738451847,
+            "changeTime": 1544738451847,
+            "contentHash": "bddc5612bceb654de25a722ff9323e02a737a457",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/RestrictContactByName.trigger-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/RestrictContactByName.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1544738443780,
+            "changeTime": 1544738443780,
+            "contentHash": "93ed00c38e383a451d7a72d4e9610f1e9bd7c216",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/TestRestrictContactByName.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/TestRestrictContactByName.cls",
+            "isDirectory": false,
+            "size": 968,
+            "modifiedTime": 1544740101348,
+            "changeTime": 1544740101348,
+            "contentHash": "8a6dae9bfbf675c6e1f5d3d2211896c0511781e9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/TestRestrictContactByName.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/TestRestrictContactByName.cls-meta.xml",
+            "isDirectory": false,
+            "size": 203,
+            "modifiedTime": 1544738476118,
+            "changeTime": 1544738476118,
+            "contentHash": "f8265b74f6516c77c0b7594c4388c22caf99bf63",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/TestVerifyDate.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/TestVerifyDate.cls",
+            "isDirectory": false,
+            "size": 668,
+            "modifiedTime": 1544738314211,
+            "changeTime": 1544738314211,
+            "contentHash": "1bbcbbdb78d4ce9f5ac65ca64686f4d12990445f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/TestVerifyDate.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/TestVerifyDate.cls-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1544736633626,
+            "changeTime": 1544736633626,
+            "contentHash": "478f678c11606d55a5fd27687b3abae2486686ef",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/VerifyDate.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/VerifyDate.cls",
+            "isDirectory": false,
+            "size": 1069,
+            "modifiedTime": 1544736604190,
+            "changeTime": 1544736604190,
+            "contentHash": "89214ba46d256af57f1bfd35ec85ee7775222f35",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/VerifyDate.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-testing/VerifyDate.cls-meta.xml",
+            "isDirectory": false,
+            "size": 188,
+            "modifiedTime": 1544736596855,
+            "changeTime": 1544736596855,
+            "contentHash": "d886bf5a6e1917aafe9d39abdc9ccbae5a2f5856",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-triggers",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-triggers",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1544482257944,
+            "changeTime": 1544482257944,
+            "contentHash": "058c0d1f73c7b31e5dd3bddf17014084493e8f4c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-triggers/AccountAddressTrigger.trigger",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-triggers/AccountAddressTrigger.trigger",
+            "isDirectory": false,
+            "size": 1243,
+            "modifiedTime": 1544467497673,
+            "changeTime": 1544467497673,
+            "contentHash": "0d04da661a067a8970cf00330db12e85edbc3a76",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-triggers/AccountAddressTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-triggers/AccountAddressTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 201,
+            "modifiedTime": 1544466181491,
+            "changeTime": 1544466181491,
+            "contentHash": "9d254b9f89d30ae1c2bf833a1f77d2596286400f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-triggers/AccountTrigger.trigger",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-triggers/AccountTrigger.trigger",
+            "isDirectory": false,
+            "size": 1097,
+            "modifiedTime": 1544485167538,
+            "changeTime": 1544485167538,
+            "contentHash": "d6f7cdc64a3b6145779466428dcdd7310d93404c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-triggers/AccountTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-triggers/AccountTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 194,
+            "modifiedTime": 1544482262496,
+            "changeTime": 1544482262496,
+            "contentHash": "ef58c19730c9930c29373c23dfd1fd5ca5c05903",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-triggers/ClosedOpportunityTrigger.trigger",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-triggers/ClosedOpportunityTrigger.trigger",
+            "isDirectory": false,
+            "size": 1127,
+            "modifiedTime": 1544468272105,
+            "changeTime": 1544468272105,
+            "contentHash": "ba1e1c2d830c9eb55fe0962b2a38aac0e106093f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-triggers/ClosedOpportunityTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-triggers/ClosedOpportunityTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1544467825868,
+            "changeTime": 1544467825868,
+            "contentHash": "ff0a3864fb5eae14cc434c21661c4eab3ca1bdc1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce",
+            "isDirectory": true,
+            "size": 736,
+            "modifiedTime": 1544465757225,
+            "changeTime": 1544465757225,
+            "contentHash": "19f045ac4527717ff4fdbc92a136f388861dc731",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/AccountList.page",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/AccountList.page",
+            "isDirectory": false,
+            "size": 377,
+            "modifiedTime": 1544463267980,
+            "changeTime": 1544463267980,
+            "contentHash": "09a821427b61ad6b221b85472bd554a8a7da1e76",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/AccountList.page-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/AccountList.page-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1544462727582,
+            "changeTime": 1544462727582,
+            "contentHash": "deebc82278548c7a467beb15802521273ca859f6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/ContactForm.page",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/ContactForm.page",
+            "isDirectory": false,
+            "size": 235,
+            "modifiedTime": 1544465912177,
+            "changeTime": 1544465912177,
+            "contentHash": "33b9df6541e8e26ee2c0f1e266f994454e1aba06",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/ContactForm.page-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/ContactForm.page-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1544465757225,
+            "changeTime": 1544465757225,
+            "contentHash": "aa8d738fc84219f591f7d75c8f8040e8f9361821",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/ContactView.page",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/ContactView.page",
+            "isDirectory": false,
+            "size": 588,
+            "modifiedTime": 1544461323376,
+            "changeTime": 1544461323377,
+            "contentHash": "b1ec66c92b0a8a12cfd31141ab45ffc8f9092c61",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/ContactView.page-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/ContactView.page-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1544461323376,
+            "changeTime": 1544461323377,
+            "contentHash": "a511272158c79d7927b680edc84db98bf699f2d5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/CreateContact.page",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/CreateContact.page",
+            "isDirectory": false,
+            "size": 1185,
+            "modifiedTime": 1544462484768,
+            "changeTime": 1544462484768,
+            "contentHash": "bc5376f6a8f900ffa9f253fd441bd3bb5c0db7c7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/CreateContact.page-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/CreateContact.page-meta.xml",
+            "isDirectory": false,
+            "size": 194,
+            "modifiedTime": 1544461323376,
+            "changeTime": 1544461323377,
+            "contentHash": "78c0f333581a1aa7ef94126560345e2aa9c114eb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/DisplayImage.page",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/DisplayImage.page",
+            "isDirectory": false,
+            "size": 163,
+            "modifiedTime": 1544461323376,
+            "changeTime": 1544461323377,
+            "contentHash": "2fb132524d65736539dfd17fecd06bb117dc3c59",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/DisplayImage.page-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/DisplayImage.page-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1544461323376,
+            "changeTime": 1544461323377,
+            "contentHash": "60f90526bcb7f95bbef30af765aa4e3363e53e1a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/DisplayUserInfo.page",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/DisplayUserInfo.page",
+            "isDirectory": false,
+            "size": 86,
+            "modifiedTime": 1544461323376,
+            "changeTime": 1544461323377,
+            "contentHash": "0fe016c04b72b94393095a7fc9d45ca97c443c92",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/DisplayUserInfo.page-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/DisplayUserInfo.page-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1544461356527,
+            "changeTime": 1544461356528,
+            "contentHash": "15fdd720241d71691066d1f54b2292c38ef4a200",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/NewCaseList.page",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/NewCaseList.page",
+            "isDirectory": false,
+            "size": 367,
+            "modifiedTime": 1544464742501,
+            "changeTime": 1544464742501,
+            "contentHash": "d97a369604ec9427dcbbf2fe17f24753a1578671",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/NewCaseList.page-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/NewCaseList.page-meta.xml",
+            "isDirectory": false,
+            "size": 190,
+            "modifiedTime": 1544464214618,
+            "changeTime": 1544464214618,
+            "contentHash": "b1f6353234118063741fcb377224a02cbaf56916",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/NewCaseListController.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/NewCaseListController.cls",
+            "isDirectory": false,
+            "size": 513,
+            "modifiedTime": 1544465644303,
+            "changeTime": 1544465644303,
+            "contentHash": "3393224af937ea8f2f835e5dbef2880b2f3c1e1b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/NewCaseListController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/NewCaseListController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 199,
+            "modifiedTime": 1544464231572,
+            "changeTime": 1544464231572,
+            "contentHash": "6582e94f8891ca85d026626e88c2627abd8fa678",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/OppView.page",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/OppView.page",
+            "isDirectory": false,
+            "size": 491,
+            "modifiedTime": 1544461328226,
+            "changeTime": 1544461328226,
+            "contentHash": "4dfe1bdbe0b0b203803e4038902cf4d78ebd531e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/OppView.page-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/OppView.page-meta.xml",
+            "isDirectory": false,
+            "size": 182,
+            "modifiedTime": 1544461328226,
+            "changeTime": 1544461328226,
+            "contentHash": "a080e9be2bbeaac52c7fcc386ea6a41aacca9301",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/ShowImage.page",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/ShowImage.page",
+            "isDirectory": false,
+            "size": 113,
+            "modifiedTime": 1544464152320,
+            "changeTime": 1544464152320,
+            "contentHash": "8a9831786af389056191366de034fef95a4afa2f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/ShowImage.page-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-visualforce/ShowImage.page-meta.xml",
+            "isDirectory": false,
+            "size": 186,
+            "modifiedTime": 1544463355899,
+            "changeTime": 1544463355899,
+            "contentHash": "22064134055d00eda5c685a8f17bf1776128ef4c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner",
+            "isDirectory": true,
+            "size": 416,
+            "modifiedTime": 1545058776543,
+            "changeTime": 1545058776543,
+            "contentHash": "041e0e541bb9760de0b8b7801ac9016de92ea8de",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AccountProcessorTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AccountProcessorTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 852,
+            "modifiedTime": 1545062136203,
+            "changeTime": 1545062136203,
+            "contentHash": "3e3f76d16d64f054282f0711392698a8c44a28d3"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AccountProcessorTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/AccountProcessorTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1545060038279,
+            "changeTime": 1545060038279,
+            "contentHash": "dc7d15011f6739ad91082f6f09c3ce7eca0cc66a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ]
+]
