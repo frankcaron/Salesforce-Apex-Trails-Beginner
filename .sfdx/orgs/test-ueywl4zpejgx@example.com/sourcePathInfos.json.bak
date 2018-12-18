@@ -1624,14 +1624,13 @@
         {
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration",
             "isDirectory": true,
-            "size": 320,
-            "modifiedTime": 1545165229367,
-            "changeTime": 1545165229367,
-            "contentHash": "0bebf333b517a680b67ea26f4509a5bd4486c14e",
+            "size": 448,
+            "modifiedTime": 1545167505513,
+            "changeTime": 1545167505513,
+            "contentHash": "451d46acac99eab228a42ec892f59c9cb740bd47",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -1757,15 +1756,15 @@
     [
         "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-soap",
         {
-            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-soap",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 384,
             "modifiedTime": 1545166735385,
             "changeTime": 1545166735385,
-            "isWorkspace": false,
-            "contentHash": "4c63f2eda7331758b692ae0a34317a512681d505"
+            "contentHash": "4c63f2eda7331758b692ae0a34317a512681d505",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -1801,15 +1800,15 @@
     [
         "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-soap/ParkLocator.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-soap/ParkLocator.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 549,
             "modifiedTime": 1545167029196,
             "changeTime": 1545167029196,
-            "isWorkspace": false,
-            "contentHash": "2342a5edd8927be4433115ada42995bfc3cd3fa8"
+            "contentHash": "2342a5edd8927be4433115ada42995bfc3cd3fa8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -1860,15 +1859,15 @@
     [
         "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-soap/ParkLocatorTest.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-soap/ParkLocatorTest.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 386,
             "modifiedTime": 1545166866053,
             "changeTime": 1545166866053,
-            "isWorkspace": false,
-            "contentHash": "71de1922fafcc329bdc189d925aac7141429259c"
+            "contentHash": "71de1922fafcc329bdc189d925aac7141429259c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -1889,27 +1888,79 @@
     [
         "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-soap/ParkServiceMock.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-soap/ParkServiceMock.cls",
             "isDirectory": false,
+            "size": 654,
+            "modifiedTime": 1545167264940,
+            "changeTime": 1545167264940,
+            "contentHash": "130eb6033608eabe479262505d942facf3ee0460",
             "isMetadataFile": false,
-            "size": 632,
-            "modifiedTime": 1545167006295,
-            "changeTime": 1545167006295,
-            "contentHash": "6c5856cf82d1cc8a3b99b31af797a8f80a588b6b"
+            "state": "u"
         }
     ],
     [
         "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-soap/ParkServiceMock.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-soap/ParkServiceMock.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 193,
             "modifiedTime": 1545166735385,
             "changeTime": 1545166735385,
-            "contentHash": "9208bf9a97edc49a65465f589f6966c639913185"
+            "contentHash": "9208bf9a97edc49a65465f589f6966c639913185",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AccountManager.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AccountManager.cls",
+            "isDirectory": false,
+            "size": 744,
+            "modifiedTime": 1545168813686,
+            "changeTime": 1545168651880,
+            "contentHash": "13801adffe28dfa2ce087ad0e3adbc7e0cbd0ee6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AccountManager.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AccountManager.cls-meta.xml",
+            "isDirectory": false,
+            "size": 192,
+            "modifiedTime": 1545167494551,
+            "changeTime": 1545167494551,
+            "contentHash": "564a4ccfba58341995b9f51f455635b05bba46c8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AccountManagerTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AccountManagerTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 832,
+            "modifiedTime": 1545168843774,
+            "changeTime": 1545168843774,
+            "contentHash": "b2c3c9e13768b2937dab574ef3b70fbe120ab993"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AccountManagerTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AccountManagerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 196,
+            "modifiedTime": 1545167505513,
+            "changeTime": 1545167505513,
+            "contentHash": "53914e0cf6400540c006c29f16bda48f08a7e72f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
