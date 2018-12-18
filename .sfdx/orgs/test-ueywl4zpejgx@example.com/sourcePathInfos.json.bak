@@ -4,10 +4,10 @@
         {
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app",
             "isDirectory": true,
-            "size": 288,
-            "modifiedTime": 1545053851168,
-            "changeTime": 1545053851168,
-            "contentHash": "1216c930d501f36d4523f10863998edbee4bde0e",
+            "size": 320,
+            "modifiedTime": 1545155528840,
+            "changeTime": 1545155528840,
+            "contentHash": "de9d69e2ed2e1f7306c201fcd6283c8c96965f4c",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -767,15 +767,16 @@
     [
         "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async",
         {
-            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 576,
             "modifiedTime": 1545083171972,
             "changeTime": 1545083171972,
+            "contentHash": "1bdc0dd94371dd7aaabea3dd149b789da303ed8f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
-            "contentHash": "1bdc0dd94371dd7aaabea3dd149b789da303ed8f"
+            "isArtifactRoot": false
         }
     ],
     [
@@ -789,7 +790,8 @@
             "contentHash": "a7617dda4c5772b69c143cac1bb6f5ff2e187f29",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1414,10 +1416,12 @@
             "isDirectory": false,
             "size": 852,
             "modifiedTime": 1545062274073,
-            "changeTime": 1545062136203,
+            "changeTime": 1545062274073,
             "contentHash": "3e3f76d16d64f054282f0711392698a8c44a28d3",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1430,7 +1434,9 @@
             "changeTime": 1545060038279,
             "contentHash": "dc7d15011f6739ad91082f6f09c3ce7eca0cc66a",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1443,7 +1449,9 @@
             "changeTime": 1545067524466,
             "contentHash": "5ef48eb850fcca05866122a1cf2cccc58b6a952f",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1456,7 +1464,9 @@
             "changeTime": 1545062577617,
             "contentHash": "db3ca7bd94dc9b9bbe930eeef22e0ea4933eaf49",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1469,7 +1479,9 @@
             "changeTime": 1545068093504,
             "contentHash": "85938c63e288bea62078a966ccaa2d56969b5f59",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1482,7 +1494,9 @@
             "changeTime": 1545062596798,
             "contentHash": "01143831cd7e1dc54b3117fd7a31c3aefa66aba1",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1495,7 +1509,9 @@
             "changeTime": 1545082335933,
             "contentHash": "67036973360b031b87fdafeb0261c00317e43724",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1508,7 +1524,9 @@
             "changeTime": 1545068239310,
             "contentHash": "ee7a1914021017bdaf149aa37378b43ebc0c28b8",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1521,7 +1539,9 @@
             "changeTime": 1545082917899,
             "contentHash": "9a9505eda71e9085dc72b584f60bdf2c63e5a172",
             "isMetadataFile": false,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
@@ -1534,59 +1554,193 @@
             "changeTime": 1545068249338,
             "contentHash": "90d1e7ca2ad801e8a268a003b1ed2b603ac69060",
             "isMetadataFile": true,
-            "state": "u"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessor.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessor.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 473,
             "modifiedTime": 1545083297181,
             "changeTime": 1545083297181,
-            "contentHash": "52f02dfe7d0916ff98d7f801d59f4c6ca7be78c1"
+            "contentHash": "52f02dfe7d0916ff98d7f801d59f4c6ca7be78c1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessor.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessor.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1545083164121,
             "changeTime": 1545083164121,
-            "contentHash": "7027bc05a1f504f9f0f06249c4f59099ff7ba3a1"
+            "contentHash": "7027bc05a1f504f9f0f06249c4f59099ff7ba3a1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessorTest.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessorTest.cls",
             "isDirectory": false,
+            "size": 931,
+            "modifiedTime": 1545155519057,
+            "changeTime": 1545155519057,
+            "contentHash": "7d011345a379db94267028389a1443a06ce7410c",
             "isMetadataFile": false,
-            "size": 691,
-            "modifiedTime": 1545083181038,
-            "changeTime": 1545083181038,
-            "contentHash": "5f8e2be599a5e44f73fef0172bb44fe5fba990ac"
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessorTest.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-async/DailyLeadProcessorTest.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 200,
             "modifiedTime": 1545083171972,
             "changeTime": 1545083171972,
-            "contentHash": "9ed5c60f7d5db1ecda9fa46f1ad02ed4f6373d5f"
+            "contentHash": "9ed5c60f7d5db1ecda9fa46f1ad02ed4f6373d5f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1545165229367,
+            "changeTime": 1545165229367,
+            "isWorkspace": false,
+            "contentHash": "0bebf333b517a680b67ea26f4509a5bd4486c14e"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AnimalLocator.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AnimalLocator.cls",
+            "isDirectory": false,
+            "size": 2105,
+            "modifiedTime": 1545164854370,
+            "changeTime": 1545164854370,
+            "contentHash": "977bc4245c92ab39bd91dec469f0315da2a021ed",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AnimalLocator.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AnimalLocator.cls-meta.xml",
+            "isDirectory": false,
+            "size": 191,
+            "modifiedTime": 1545156703662,
+            "changeTime": 1545156703662,
+            "contentHash": "28f32da771fccd6422ca601ff9a69af489a3160e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AnimalLocatorTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AnimalLocatorTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1729,
+            "modifiedTime": 1545165246913,
+            "changeTime": 1545165246913,
+            "isWorkspace": false,
+            "contentHash": "fc1946289647e2ab7cdfbfaa6901407851a8904f"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AnimalLocatorTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AnimalLocatorTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1545156786012,
+            "changeTime": 1545156786012,
+            "contentHash": "805f8fbad60b8f7c84992179e5358f5eea1468a7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AnimalLocatorMock.cls",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AnimalLocatorMock.cls",
+            "isDirectory": false,
+            "size": 491,
+            "modifiedTime": 1545159236526,
+            "changeTime": 1545158937770,
+            "contentHash": "0abe27b635671627cb2d265ca0b05e63719b7628",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AnimalLocatorMock.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AnimalLocatorMock.cls-meta.xml",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1545158921233,
+            "changeTime": 1545158921233,
+            "contentHash": "cab4e1beabc9511f6af03235cd70e597c9405835",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AnimalLocatorNotFoundMock.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AnimalLocatorNotFoundMock.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 422,
+            "modifiedTime": 1545165267806,
+            "changeTime": 1545165267806,
+            "contentHash": "94fa144e2cb32135eec86fbaa1ca01ab54d80e7d"
+        }
+    ],
+    [
+        "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AnimalLocatorNotFoundMock.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fcaron/Documents/SFDX/Salesforce-Apex-Trails-Beginner/force-app/trailhead-integration/AnimalLocatorNotFoundMock.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 203,
+            "modifiedTime": 1545165229367,
+            "changeTime": 1545165229367,
+            "contentHash": "46de5f1362e7904a08985e3ffe86cce25c1f5c66"
         }
     ]
 ]
